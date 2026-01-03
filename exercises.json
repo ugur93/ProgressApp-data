@@ -22612,5 +22612,82 @@
             "Zottman_Preacher_Curl/1.jpg"
         ],
         "id": "Zottman_Preacher_Curl"
+    },
+    {
+        "name": "Hack Squat",
+        "force": "push",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "quadriceps"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings",
+            "calves"
+        ],
+        "instructions": [
+            "Position yourself on the hack squat machine with your shoulders under the pads and your feet shoulder-width apart on the platform.",
+            "Unrack the weight by straightening your legs, keeping your knees slightly bent. This will be your starting position.",
+            "Slowly lower the weight by bending at the knees and hips, keeping your back straight and chest up.",
+            "Continue descending until your thighs are parallel to the platform or slightly below.",
+            "Push through your heels to extend your knees and hips, returning to the starting position.",
+            "Repeat for the recommended amount of repetitions."
+        ],
+        "category": "strength",
+        "images": [],
+        "id": "hack-squat-001"
+    },
+    {
+        "name": "Hip Thrust Machine",
+        "force": "push",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "glutes"
+        ],
+        "secondaryMuscles": [
+            "hamstrings",
+            "quadriceps"
+        ],
+        "instructions": [
+            "Position yourself on the hip thrust machine with your upper back against the pad and feet flat on the platform.",
+            "Adjust the pad so that your knees are bent at 90 degrees when your hips are fully extended.",
+            "Lower your hips by bending at the hips, keeping your back straight. This will be your starting position.",
+            "Drive through your heels to extend your hips upward, squeezing your glutes at the top.",
+            "Pause briefly at the top of the movement, then slowly lower back to the starting position.",
+            "Repeat for the recommended amount of repetitions."
+        ],
+        "category": "strength",
+        "images": [],
+        "id": "hip-thrust-machine"
+    },
+    {
+        "name": "Smith Machine Bulgarian Split Squat",
+        "force": "push",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "machine",
+        "primaryMuscles": [
+            "quadriceps"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings",
+            "calves"
+        ],
+        "instructions": [
+            "Position a bench behind you and place one foot on it, laces down. Stand in front of the Smith machine with the bar on your upper back.",
+            "Position your front foot about 2-3 feet in front of the bench, with your rear foot elevated.",
+            "Lower your body by bending at the front knee, keeping your back straight and chest up.",
+            "Continue descending until your front thigh is parallel to the ground or slightly below.",
+            "Push through your front heel to return to the starting position, fully extending your front leg.",
+            "Repeat for the recommended amount of repetitions, then switch legs."
+        ],
+        "category": "strength",
+        "images": [],
+        "id": "smith-machine-bulgarian-split-squat"
     }
 ]
