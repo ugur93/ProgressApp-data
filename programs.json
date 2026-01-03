@@ -1,0 +1,489 @@
+[{
+        "id": "10-week-mass-building",
+        "name": "10 Week Mass Building Program",
+        "description": "A comprehensive 10-week program focused on building muscle mass with progressive overload. Features a 4-day split targeting different muscle groups each day.",
+        "difficulty": "intermediate",
+        "duration_weeks": 10,
+        "days_per_week": 4,
+        "weeks": [{
+                "week_number": 1,
+                "days": [{
+                        "day_name": "Chest & Triceps",
+                        "exercises": [{
+                                "exercise_id": "incline-barbell-bench-press",
+                                "sets": 4,
+                                "reps": 6,
+                                "rest_seconds": 180,
+                                "notes": "Heavy compound movement"
+                            },
+                            {
+                                "exercise_id": "barbell-squat",
+                                "sets": 3,
+                                "reps": 8,
+                                "rest_seconds": 120,
+                                "notes": "Focus on form"
+                            }
+                        ]
+                    },
+                    {
+                        "day_name": "Back & Biceps",
+                        "exercises": [{
+                                "exercise_id": "conventional-deadlift",
+                                "sets": 4,
+                                "reps": 5,
+                                "rest_seconds": 180,
+                                "notes": "Main lift"
+                            },
+                            {
+                                "exercise_id": "pull-ups",
+                                "sets": 3,
+                                "reps": 8,
+                                "rest_seconds": 120,
+                                "notes": "Add weight if needed"
+                            }
+                        ]
+                    },
+                    {
+                        "day_name": "Legs",
+                        "exercises": [{
+                                "exercise_id": "hack-squat-001",
+                                "sets": 4,
+                                "reps": 8,
+                                "rest_seconds": 120,
+                                "notes": "Machine squat variation"
+                            },
+                            {
+                                "exercise_id": "seated-leg-curl",
+                                "sets": 3,
+                                "reps": 10,
+                                "rest_seconds": 90,
+                                "notes": "Hamstring isolation"
+                            },
+                            {
+                                "exercise_id": "leg-extension",
+                                "sets": 3,
+                                "reps": 12,
+                                "rest_seconds": 60,
+                                "notes": "Quad isolation"
+                            }
+                        ]
+                    },
+                    {
+                        "day_name": "Shoulders & Arms",
+                        "exercises": [{
+                                "exercise_id": "lateral-raise-machine",
+                                "sets": 3,
+                                "reps": 10,
+                                "rest_seconds": 90,
+                                "notes": "Side deltoid focus"
+                            },
+                            {
+                                "exercise_id": "seated-one-arm-iso-row",
+                                "sets": 3,
+                                "reps": 10,
+                                "rest_seconds": 90,
+                                "notes": "Unilateral strength"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "week_number": 2,
+                "days": [{
+                        "day_name": "Chest & Triceps",
+                        "exercises": [{
+                            "exercise_id": "incline-barbell-bench-press",
+                            "sets": 4,
+                            "reps": 6,
+                            "rest_seconds": 180,
+                            "notes": "Increase weight by 5lbs"
+                        }]
+                    },
+                    {
+                        "day_name": "Back & Biceps",
+                        "exercises": [{
+                            "exercise_id": "conventional-deadlift",
+                            "sets": 4,
+                            "reps": 5,
+                            "rest_seconds": 180,
+                            "notes": "Progress weight"
+                        }]
+                    },
+                    {
+                        "day_name": "Legs",
+                        "exercises": [{
+                            "exercise_id": "hack-squat-001",
+                            "sets": 4,
+                            "reps": 8,
+                            "rest_seconds": 120,
+                            "notes": "Add reps or weight"
+                        }]
+                    },
+                    {
+                        "day_name": "Shoulders & Arms",
+                        "exercises": [{
+                            "exercise_id": "lateral-raise-machine",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 90,
+                            "notes": "Maintain form"
+                        }]
+                    }
+                ]
+            }
+        ],
+        "version": 1,
+        "updated_at": "2026-01-03"
+    },
+    {
+        "id": "5-day-dumbbell-only",
+        "name": "5 Day Dumbbell Only Workout Split",
+        "description": "Complete dumbbell-based workout program for building muscle with minimal equipment. Perfect for home or traveling.",
+        "difficulty": "intermediate",
+        "duration_weeks": 8,
+        "days_per_week": 5,
+        "weeks": [{
+            "week_number": 1,
+            "days": [{
+                    "day_name": "Chest & Triceps",
+                    "exercises": [{
+                        "exercise_id": "incline-barbell-bench-press",
+                        "sets": 3,
+                        "reps": 8,
+                        "rest_seconds": 120,
+                        "notes": "Use dumbbells for incline work"
+                    }]
+                },
+                {
+                    "day_name": "Back & Biceps",
+                    "exercises": [{
+                        "exercise_id": "pull-ups",
+                        "sets": 3,
+                        "reps": 8,
+                        "rest_seconds": 120,
+                        "notes": "Bodyweight with dumbbell if needed"
+                    }]
+                },
+                {
+                    "day_name": "Legs",
+                    "exercises": [{
+                        "exercise_id": "barbell-squat",
+                        "sets": 3,
+                        "reps": 10,
+                        "rest_seconds": 120,
+                        "notes": "Hold dumbbells for added weight"
+                    }]
+                },
+                {
+                    "day_name": "Shoulders",
+                    "exercises": [{
+                        "exercise_id": "lateral-raise-machine",
+                        "sets": 3,
+                        "reps": 10,
+                        "rest_seconds": 90,
+                        "notes": "Use dumbbells"
+                    }]
+                },
+                {
+                    "day_name": "Arms & Core",
+                    "exercises": [{
+                        "exercise_id": "seated-one-arm-iso-row",
+                        "sets": 3,
+                        "reps": 10,
+                        "rest_seconds": 90,
+                        "notes": "Dumbbell row"
+                    }]
+                }
+            ]
+        }],
+        "version": 1,
+        "updated_at": "2026-01-03"
+    },
+    {
+        "id": "upper-lower-4-day",
+        "name": "Upper Lower 4 Day Gym Bodybuilding Workout",
+        "description": "4-day upper/lower split designed for bodybuilding. Emphasizes hypertrophy with moderate weights and higher rep ranges.",
+        "difficulty": "intermediate",
+        "duration_weeks": 8,
+        "days_per_week": 4,
+        "weeks": [{
+            "week_number": 1,
+            "days": [{
+                    "day_name": "Upper A",
+                    "exercises": [{
+                            "exercise_id": "incline-barbell-bench-press",
+                            "sets": 4,
+                            "reps": 8,
+                            "rest_seconds": 120,
+                            "notes": "Primary upper body compound"
+                        },
+                        {
+                            "exercise_id": "seated-one-arm-iso-row",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 90,
+                            "notes": "Horizontal pull"
+                        },
+                        {
+                            "exercise_id": "lateral-raise-machine",
+                            "sets": 3,
+                            "reps": 12,
+                            "rest_seconds": 60,
+                            "notes": "Shoulder accessory"
+                        }
+                    ]
+                },
+                {
+                    "day_name": "Lower A",
+                    "exercises": [{
+                            "exercise_id": "barbell-squat",
+                            "sets": 4,
+                            "reps": 8,
+                            "rest_seconds": 180,
+                            "notes": "Primary leg compound"
+                        },
+                        {
+                            "exercise_id": "leg-extension",
+                            "sets": 3,
+                            "reps": 12,
+                            "rest_seconds": 60,
+                            "notes": "Quad isolation"
+                        },
+                        {
+                            "exercise_id": "seated-leg-curl",
+                            "sets": 3,
+                            "reps": 12,
+                            "rest_seconds": 60,
+                            "notes": "Hamstring isolation"
+                        }
+                    ]
+                },
+                {
+                    "day_name": "Upper B",
+                    "exercises": [{
+                            "exercise_id": "pull-ups",
+                            "sets": 3,
+                            "reps": 8,
+                            "rest_seconds": 120,
+                            "notes": "Vertical pull"
+                        },
+                        {
+                            "exercise_id": "lateral-raise-machine",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 90,
+                            "notes": "Secondary shoulder work"
+                        }
+                    ]
+                },
+                {
+                    "day_name": "Lower B",
+                    "exercises": [{
+                            "exercise_id": "hack-squat-001",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 120,
+                            "notes": "Secondary leg compound"
+                        },
+                        {
+                            "exercise_id": "hip-thrust-machine",
+                            "sets": 3,
+                            "reps": 12,
+                            "rest_seconds": 90,
+                            "notes": "Glute focus"
+                        }
+                    ]
+                }
+            ]
+        }],
+        "version": 1,
+        "updated_at": "2026-01-03"
+    },
+    {
+        "id": "3-day-ppl-beginner",
+        "name": "3 Day Push Pull Legs for Beginners",
+        "description": "Beginner-friendly 3-day PPL split. Simple progression with compound movements and minimal accessory work. Perfect for those new to structured training.",
+        "difficulty": "beginner",
+        "duration_weeks": 8,
+        "days_per_week": 3,
+        "weeks": [{
+            "week_number": 1,
+            "days": [{
+                    "day_name": "Push Day",
+                    "exercises": [{
+                            "exercise_id": "incline-barbell-bench-press",
+                            "sets": 3,
+                            "reps": 8,
+                            "rest_seconds": 120,
+                            "notes": "Primary push compound"
+                        },
+                        {
+                            "exercise_id": "lateral-raise-machine",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 90,
+                            "notes": "Shoulder work"
+                        }
+                    ]
+                },
+                {
+                    "day_name": "Pull Day",
+                    "exercises": [{
+                            "exercise_id": "pull-ups",
+                            "sets": 3,
+                            "reps": 8,
+                            "rest_seconds": 120,
+                            "notes": "Primary pull compound"
+                        },
+                        {
+                            "exercise_id": "seated-one-arm-iso-row",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 90,
+                            "notes": "Back accessory"
+                        }
+                    ]
+                },
+                {
+                    "day_name": "Legs Day",
+                    "exercises": [{
+                            "exercise_id": "barbell-squat",
+                            "sets": 3,
+                            "reps": 8,
+                            "rest_seconds": 180,
+                            "notes": "Primary leg compound"
+                        },
+                        {
+                            "exercise_id": "seated-leg-curl",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 90,
+                            "notes": "Hamstring isolation"
+                        }
+                    ]
+                }
+            ]
+        }],
+        "version": 1,
+        "updated_at": "2026-01-03"
+    },
+    {
+        "id": "5-day-muscle-strength-split",
+        "name": "5 Day Muscle & Strength Building Workout Split",
+        "description": "Advanced 5-day split combining strength and hypertrophy work. Targets each muscle group twice per week with varying rep ranges.",
+        "difficulty": "advanced",
+        "duration_weeks": 8,
+        "days_per_week": 5,
+        "weeks": [{
+            "week_number": 1,
+            "days": [{
+                    "day_name": "Chest Day",
+                    "exercises": [{
+                            "exercise_id": "incline-barbell-bench-press",
+                            "sets": 4,
+                            "reps": 6,
+                            "rest_seconds": 180,
+                            "notes": "Strength focus"
+                        },
+                        {
+                            "exercise_id": "barbell-squat",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 120,
+                            "notes": "Hypertrophy work"
+                        }
+                    ]
+                },
+                {
+                    "day_name": "Back Day",
+                    "exercises": [{
+                            "exercise_id": "conventional-deadlift",
+                            "sets": 4,
+                            "reps": 5,
+                            "rest_seconds": 180,
+                            "notes": "Strength focus"
+                        },
+                        {
+                            "exercise_id": "pull-ups",
+                            "sets": 3,
+                            "reps": 8,
+                            "rest_seconds": 120,
+                            "notes": "Volume work"
+                        }
+                    ]
+                },
+                {
+                    "day_name": "Leg Day",
+                    "exercises": [{
+                            "exercise_id": "barbell-squat",
+                            "sets": 4,
+                            "reps": 6,
+                            "rest_seconds": 180,
+                            "notes": "Main compound"
+                        },
+                        {
+                            "exercise_id": "hack-squat-001",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 120,
+                            "notes": "Secondary compound"
+                        },
+                        {
+                            "exercise_id": "leg-extension",
+                            "sets": 3,
+                            "reps": 12,
+                            "rest_seconds": 90,
+                            "notes": "Isolation"
+                        },
+                        {
+                            "exercise_id": "seated-leg-curl",
+                            "sets": 3,
+                            "reps": 12,
+                            "rest_seconds": 90,
+                            "notes": "Hamstring isolation"
+                        }
+                    ]
+                },
+                {
+                    "day_name": "Shoulder & Arm Day",
+                    "exercises": [{
+                            "exercise_id": "lateral-raise-machine",
+                            "sets": 4,
+                            "reps": 8,
+                            "rest_seconds": 120,
+                            "notes": "Shoulder focus"
+                        },
+                        {
+                            "exercise_id": "seated-one-arm-iso-row",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 90,
+                            "notes": "Back support"
+                        }
+                    ]
+                },
+                {
+                    "day_name": "Heavy Legs & Glutes",
+                    "exercises": [{
+                            "exercise_id": "hip-thrust-machine",
+                            "sets": 3,
+                            "reps": 10,
+                            "rest_seconds": 120,
+                            "notes": "Glute focus"
+                        },
+                        {
+                            "exercise_id": "smith-machine-bulgarian-split-squat",
+                            "sets": 3,
+                            "reps": 8,
+                            "rest_seconds": 120,
+                            "notes": "Unilateral strength"
+                        }
+                    ]
+                }
+            ]
+        }],
+        "version": 1,
+        "updated_at": "2026-01-03"
+    }
+]
